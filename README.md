@@ -5,7 +5,7 @@ Welcome to the **Squid Animation Project** — a fun, creative webpage built ent
 
 ## 📸 Preview
 
-(Squid_image.jpg)
+https://github.com/LakshiyaDhanapalan/Squid_Animations/blob/main/Squid_image.jpg
 
 ## 🌟 Features
 
