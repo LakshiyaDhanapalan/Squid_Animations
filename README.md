@@ -20,7 +20,7 @@ https://github.com/LakshiyaDhanapalan/Squid_Animations/blob/main/Squid_image.jpg
 
 1. Clone this repository:
    ```bash
-   git clone : https://github.com/LakshiyaDhanapalan/Squid_Animations.git
+   git clone https://github.com/LakshiyaDhanapalan/Squid_Animations.git
 
 
 
