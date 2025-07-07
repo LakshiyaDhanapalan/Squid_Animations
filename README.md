@@ -20,7 +20,7 @@ Welcome to the **Squid Animation Project** — a fun, creative webpage built ent
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/squid-animation.git
+   git clone : https://github.com/LakshiyaDhanapalan/Squid_Animations.git
 
 
 
